@@ -1,0 +1,6 @@
+{
+  "name": "FEG Session Quality Engine",
+  "description": "Session-to-action conversion and quality intelligence platform for Fortuna Entertainment Group (PSK.hr) Challenge 01",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
